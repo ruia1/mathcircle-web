@@ -1,0 +1,15 @@
+header{
+    background-color: #87CEFA;
+    height: 80px;
+}
+header img{
+    float: left;
+    height: 80px;
+    padding-right: 15px;
+}
+header h1{
+    float: left;
+}
+.body {
+    font-family: "Avenir Next", "Hiragino Kaku Gothic ProN W3", sans-serif;
+}
